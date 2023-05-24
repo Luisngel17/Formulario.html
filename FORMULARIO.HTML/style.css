@@ -1,0 +1,32 @@
+.divs{
+    background-color: rgb(70, 18, 119);
+    text-align: center;
+    color: black;
+    border-radius: 40px;
+}
+
+.input{
+    color: black;
+    border-color: rgb(12, 134, 114);
+    border-radius: 40px;
+    text-decoration: overline;
+    text-align: center;
+}
+
+.label{
+    border-radius: 40px;
+    text-align: center;
+    text-decoration: overline;
+    border-color: rgb(26, 26, 145);
+}
+
+.radio{
+    border-color: rgb(180, 45, 140);
+    text-align: center;
+}
+
+.submit{
+    border-radius: 40px;
+    text-align: center;
+    border-color: rgb(13, 139, 62);
+}
